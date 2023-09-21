@@ -1,4 +1,4 @@
-# InstacardProject_Python
+# InstacartProject_Python
 
 ## Objective
 Instacart (hypothetically) is interested in creating a targeted marketing strategy. This analysis informs this strategy to ensure Instacart targets the right customer profiles witht he appropriate products. 
