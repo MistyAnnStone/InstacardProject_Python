@@ -15,7 +15,7 @@ Initial Key Questions:
   
 
 ## Data
-These data are open-source data sets from Instagart. NOTE that the customer data set is created for the purposes of this project. 
+These data are open-source data sets from Instacart. NOTE that the customer data set is created for the purposes of this project. 
 
 The Instacart Online Grocery Shopping Dataset 2017, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle. 
 
